@@ -1,5 +1,6 @@
 # Every Software Engineer Should Know :man_technologist:
 My own collection of technical things that every Software Engineer should know.
+Inspired by [every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) 
 
 Comes in no particular order.
 
@@ -13,11 +14,8 @@ Comes in no particular order.
 
 ### Design Patterns
 - [Value Object Pattern](https://martinfowler.com/bliki/ValueObject.html)
-- [Data Transfer Object Pattern](https://martinfowler.com/eaaCatalog/dataTransferObject.html)
-- [Difference between DTO & VO](https://stackoverflow.com/a/52704344/10654491)
-- [Plain Old Java Object - POJO](https://www.programmingmitra.com/2016/05/plain-old-java-object-pojo-explained.html)
-- [Plain Old CLR Object - POCO](https://stackoverflow.com/a/725365/10654491)
-- [DTO vs Value Object vs POCO](https://enterprisecraftsmanship.com/posts/dto-vs-value-object-vs-poco/)
+- [Data Transfer Object Pattern](https://martinfowler.com/eaaCatalog/dataTransferObject.html) | [:link:](https://stackoverflow.com/a/52704344/10654491)
+- [Plain Old Java Object - POJO](https://www.programmingmitra.com/2016/05/plain-old-java-object-pojo-explained.html) | [:link:](https://stackoverflow.com/a/725365/10654491) | [:link:](https://enterprisecraftsmanship.com/posts/dto-vs-value-object-vs-poco/)
 
 ### Testing
 - [Cyclomatic Complexity](https://www.tutorialspoint.com/software_testing_dictionary/cyclomatic_complexity.htm)
